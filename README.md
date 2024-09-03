@@ -83,6 +83,8 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Demo:
 
+https://multiple-disease-prediction-model-pd7ivqnpxerxsfmepq5fdg.streamlit.app/
+
 
 
 
