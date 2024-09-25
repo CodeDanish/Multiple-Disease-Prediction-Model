@@ -1,4 +1,4 @@
-# Multiple Disease Prediction 🩺💻
+# 🩺💻 Multiple Disease Prediction | ❤️ Heart, 🍬 Diabetes, 🧠 Parkinson's Risk
 
 ![Diseases](https://img.shields.io/badge/Disease-Prediction-red) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
